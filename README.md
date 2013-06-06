@@ -1,4 +1,5 @@
 _s_options
 ==========
 
-undescore startet theme with options framework
+Undescore startet theme with options framework
+Tutorial in http://bitado.com/blog
